@@ -42,7 +42,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/EstrellaAce29/PrashansaChaudhary/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/EstrellaAce29/EstrellaAce29/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
