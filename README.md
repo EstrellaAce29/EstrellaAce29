@@ -1,4 +1,4 @@
-![visitor badge](https://komarev.com/ghpvc/?username=PrashansaChaudhary&label=Profile+Views&color=FF8C00)
+![visitor badge](https://komarev.com/ghpvc/?username=EstrellaAce29&label=Profile+Views&color=FF8C00)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Hi+There!;I'm+Prashansa;I+am+a+Software+Engineer!;I+am+a+Data+Engineer!&color=FF8C00" />
@@ -42,7 +42,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/PrashansaChaudhary/PrashansaChaudhary/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/EstrellaAce29/PrashansaChaudhary/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -51,11 +51,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrashansaChaudhary&theme=default" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=EstrellaAce29&theme=default" alt="GitHub Streak Stats"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashansaChaudhary&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EstrellaAce29&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashansaChaudhary&hide=HTML&langs_count=8&layout=compact&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstrellaAce29&hide=HTML&langs_count=8&layout=compact&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/><br/>
