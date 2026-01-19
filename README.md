@@ -19,10 +19,7 @@ improving system behavior, and learning through hands-on project work.
 - Strong emphasis on clean, readable, and maintainable code
 - Mindful of scalability and reliability when designing solutions
 
-Open to collaboration and working on meaningful software projects.
-<p align="left">
-  Open to collaborations, hackathons, and challenging projects!
-</p>
+Open to collaboration, hackathons and working on challenging software projects.
 
 </div>
 
