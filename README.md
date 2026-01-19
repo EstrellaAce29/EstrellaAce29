@@ -8,7 +8,7 @@
 
 <div align="left">
 
-I am Software Engineer with experience building software systems across different domains.
+I am a Software Engineer with experience building software systems across different domains.
 Focused on writing clean, maintainable code and designing solutions that are reliable,
 performant, and resilient under real-world conditions. Enjoys debugging complex issues,
 improving system behavior, and learning through hands-on project work.
