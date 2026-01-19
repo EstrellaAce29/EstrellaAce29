@@ -6,6 +6,23 @@
 
 <h2 align="center">A Software Engineer with a diligent personality</h2>
 
+<div align="center">
+
+Software Engineer with experience building software systems across different domains.
+Focused on writing clean, maintainable code and designing solutions that are reliable,
+performant, and resilient under real-world conditions. Enjoys debugging complex issues,
+improving system behavior, and learning through hands-on project work.
+
+### Why Work With Me
+- Persistent in debugging and resolving issues thoroughly
+- Thoughtful about performance and system efficiency
+- Strong emphasis on clean, readable, and maintainable code
+- Mindful of scalability and reliability when designing solutions
+
+Open to collaboration and working on meaningful software projects.
+
+</div>
+
 <br/>
 
 <div align="center">
