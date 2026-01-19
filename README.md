@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Hi+There!;I+am+Prashansa+Chaudhary;I+am+a+Software+Engineer!;I+am+a+Data+Engineer!&color=FF8C00" />
 </h1>
 
-<h2 align="center">A Software Engineer with a diligent personality</h2>
+<h2 align="center">👩‍💻 A Software Engineer with a diligent personality</h2>
 
 <div align="left">
 
