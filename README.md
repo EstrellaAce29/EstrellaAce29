@@ -48,7 +48,7 @@ Open to collaboration and working on meaningful software projects.
 </div>
 
 <p align="left">
-  Open to collaborations, hackathons, and challenging projects.
+  Open to collaborations, hackathons, and challenging projects!
 </p>
 
 <hr/>
