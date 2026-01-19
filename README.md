@@ -29,7 +29,7 @@ Open to collaboration and working on meaningful software projects.
   <strong>Let’s Connect and Let’s Build Together.</strong>
 </div>
 
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:prashansachaudhary8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
