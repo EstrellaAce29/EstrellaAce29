@@ -8,12 +8,12 @@
 
 <div align="left">
 
-Software Engineer with experience building software systems across different domains.
+I am Software Engineer with experience building software systems across different domains.
 Focused on writing clean, maintainable code and designing solutions that are reliable,
 performant, and resilient under real-world conditions. Enjoys debugging complex issues,
 improving system behavior, and learning through hands-on project work.
 
-### Why Work With Me
+### Why Work With Me ?
 - Persistent in debugging and resolving issues thoroughly
 - Thoughtful about performance and system efficiency
 - Strong emphasis on clean, readable, and maintainable code
