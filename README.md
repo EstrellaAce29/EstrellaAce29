@@ -33,6 +33,9 @@ Open to collaboration and working on meaningful software projects.
   <a href="mailto:prashansachaudhary8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/EstrellaAce29" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/prashansa-chaudhary" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
