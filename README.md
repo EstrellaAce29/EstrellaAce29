@@ -6,7 +6,7 @@
 
 <h2 align="center">A Software Engineer with a diligent personality</h2>
 
-<div align="center">
+<div align="left">
 
 Software Engineer with experience building software systems across different domains.
 Focused on writing clean, maintainable code and designing solutions that are reliable,
