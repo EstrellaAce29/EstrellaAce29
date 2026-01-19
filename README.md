@@ -46,6 +46,9 @@ Open to collaboration and working on meaningful software projects.
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
+<p align="left">
+  Open to collaborations, hackathons, and challenging projects.
+</p>
 
 <hr/>
 
