@@ -24,12 +24,24 @@ Open to collaboration and working on meaningful software projects.
 </div>
 
 <br/>
-
-<div align="center">
+<div align="left">
+  <strong>Connect</strong>
 </div>
 
 <div align="center"> 
   <a href="mailto:prashansachaudhary8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/prashansa-chaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/24038577/estrellaace">
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/EstrellaAcePC">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/prashansa-chaudhary" target="_blank">
