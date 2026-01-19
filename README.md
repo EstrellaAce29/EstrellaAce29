@@ -26,7 +26,7 @@ Open to collaboration and working on meaningful software projects.
 <br/>
 
 <div align="left">
-  <strong>Let’s Connect and Let’s Build Together.</strong>
+  <strong>Let’s Connect and Build Together.</strong>
 </div>
 
 <div align="left"> 
