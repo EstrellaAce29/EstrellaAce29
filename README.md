@@ -72,10 +72,9 @@ Open to collaboration, hackathons and working on challenging software projects.
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EstrellaAce29/EstrellaAce29/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
   <br />
-  <img src="https://raw.githubusercontent.com/EstrellaAce29/EstrellaAce29/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" height="180" />
-  <img src="https://raw.githubusercontent.com/EstrellaAce29/EstrellaAce29/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages" height="180" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 <br/><br/>
