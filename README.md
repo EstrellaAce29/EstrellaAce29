@@ -72,11 +72,10 @@ Open to collaboration, hackathons and working on challenging software projects.
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=EstrellaAce29&theme=default" alt="GitHub Streak Stats"/>
+  <img src="https://raw.githubusercontent.com/EstrellaAce29/EstrellaAce29/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=EstrellaAce29&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstrellaAce29&hide=HTML&langs_count=8&layout=compact&border_radius=10" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/EstrellaAce29/EstrellaAce29/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" height="180" />
+  <img src="https://raw.githubusercontent.com/EstrellaAce29/EstrellaAce29/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages" height="180" />
 </div>
 
 <br/><br/>
