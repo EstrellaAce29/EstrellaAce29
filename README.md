@@ -72,6 +72,8 @@ Open to collaboration, hackathons and working on challenging software projects.
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
+  <br />
   <img src="./profile/stats.svg" alt="GitHub Stats" />
   <br />
   <img src="./profile/top-langs.svg" alt="Top Languages" />
